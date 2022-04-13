@@ -1,6 +1,15 @@
-h1, h2{
+h1, h2, p, div{
     text-align: center;
 }
-h1{
-    font-weight: 900;
+
+.span1{
+     text-align: center;
+     
+     
+     
 }
+.span2{
+    text-align: center;
+}
+
+
